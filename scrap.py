@@ -153,7 +153,7 @@ def get_random_user_agent():
         'Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1'
     ]
     return random.choice(user_agents)
-updated_names1 = 8
+updated_names1 = 20
 while True:
     updated_names1  = updated_names1 + 1
     with open('names-3.json', 'r', encoding='utf-8') as f:
@@ -219,7 +219,7 @@ while True:
                 print("Max requests (40) reached. Sleeping for 10-15 minutes.")
                 sleep_time = random_sleep(600, 900)
                 print(f"Sleeping for {sleep_time} seconds.")
-                time.sleep(sleep_time)
+#                time.sleep(sleep_time)
                 request_counter = 0 
             
             sleep_time = random_sleep(5, 10)

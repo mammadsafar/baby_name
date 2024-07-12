@@ -1,5 +1,863 @@
 [
     {
+        "name": "هبیةلله",
+        "link": "https://abadis.ir/fatofa/هبیهلله/",
+        "gender": "پسر",
+        "pronunciation": "",
+        "description": "بخشیده شده از جانب خداوند، نام چندتن از شخصیتهای ادبی و تاریخی",
+        "details": [
+            "پسر",
+            "عربی",
+            ""
+        ],
+        "english_name": "لله (پسر"
+    },
+    {
+        "name": "هتاو",
+        "link": "https://abadis.ir/fatofa/هتاو/",
+        "gender": "دختر",
+        "pronunciation": "/hatav/",
+        "description": "خورشید و آفتاب",
+        "details": [
+            "دختر",
+            "کردی",
+            ""
+        ],
+        "english_name": "hatav"
+    },
+    {
+        "name": "هترا",
+        "link": "https://abadis.ir/fatofa/هترا/",
+        "gender": "پسر",
+        "pronunciation": "/hatra/",
+        "description": "محیط بسته",
+        "details": [
+            "پسر",
+            "لاتین",
+            ""
+        ],
+        "english_name": "hatra"
+    },
+    {
+        "name": "هخا",
+        "link": "https://abadis.ir/fatofa/هخا/",
+        "gender": "پسر",
+        "pronunciation": "/hakha/",
+        "description": "دوستدار",
+        "details": [
+            "پسر",
+            "فارسی",
+            ""
+        ],
+        "english_name": "hakha"
+    },
+    {
+        "name": "هدسا",
+        "link": "https://abadis.ir/fatofa/هدسا/",
+        "gender": "دختر",
+        "pronunciation": "/hadasa/",
+        "description": "درخت مورد",
+        "details": [
+            "دختر",
+            "عبری",
+            ""
+        ],
+        "english_name": "hadasa"
+    },
+    {
+        "name": "هرسام",
+        "link": "https://abadis.ir/fatofa/هرسام/",
+        "gender": "پسر",
+        "pronunciation": "/harsam/",
+        "description": "اشک هایم",
+        "details": [
+            "پسر",
+            "لری",
+            ""
+        ],
+        "english_name": "harsam"
+    },
+    {
+        "name": "هرمزیار",
+        "link": "https://abadis.ir/fatofa/هرمزیار/",
+        "gender": "پسر",
+        "pronunciation": "/hormoz yār/",
+        "description": "خدایار، آن که خداوند یار اوست، ( اَعلام ) نام خاص یک موبد پارسی است که در قرن میلادی می زیسته است",
+        "details": [
+            "پسر",
+            "فارسی",
+            ""
+        ],
+        "english_name": "hormoz yar"
+    },
+    {
+        "name": "هرمس",
+        "link": "https://abadis.ir/fatofa/هرمس/",
+        "gender": "پسر",
+        "pronunciation": "/hermes/",
+        "description": "فرستاده خدایان، از خدایان اولمپی، نام پسر زئوس و مایا",
+        "details": [
+            "پسر",
+            "یونانی",
+            "تاریخی و کهن"
+        ],
+        "english_name": "hermes"
+    },
+    {
+        "name": "هرواک",
+        "link": "https://abadis.ir/fatofa/هرواک/",
+        "gender": "پسر",
+        "pronunciation": "/hervak/",
+        "description": "نام دیگر خسروپرویز پادشاه ساسانی",
+        "details": [
+            "پسر",
+            "فارسی",
+            ""
+        ],
+        "english_name": "hervak"
+    },
+    {
+        "name": "هریاد",
+        "link": "https://abadis.ir/fatofa/هریاد/",
+        "gender": "پسر",
+        "pronunciation": "/haryad/",
+        "description": "همیشه در خاطر",
+        "details": [
+            "پسر",
+            "کردی",
+            ""
+        ],
+        "english_name": "haryad"
+    },
+    {
+        "name": "هزاره",
+        "link": "https://abadis.ir/fatofa/هزاره/",
+        "gender": "پسر",
+        "pronunciation": "/hezare/",
+        "description": "از شخصیتهای شاهنامه، لقب کوت از سرداران رومی سپاه خسروپرویز پادشاه ساسانی",
+        "details": [
+            "پسر",
+            "فارسی",
+            "تاریخی و کهن"
+        ],
+        "english_name": "hezareh"
+    },
+    {
+        "name": "هژین",
+        "link": "https://abadis.ir/fatofa/هژین/",
+        "gender": "دختر",
+        "pronunciation": "/hazhin/",
+        "description": "زندگی جاویدان",
+        "details": [
+            "دختر",
+            "کردی",
+            ""
+        ],
+        "english_name": "hazhin"
+    },
+    {
+        "name": "هستنوه",
+        "link": "https://abadis.ir/fatofa/هستنوه/",
+        "gender": "دختر",
+        "pronunciation": "",
+        "description": "قیام تودةمردم ( نگارش کردی",
+        "details": [
+            "دختر",
+            "کردی",
+            ""
+        ],
+        "english_name": "وه (دختر"
+    },
+    {
+        "name": "هستیدخت",
+        "link": "https://abadis.ir/fatofa/هستیدخت/",
+        "gender": "دختر",
+        "pronunciation": "/hasti dokht/",
+        "description": "دختر زندگی و زندگانی، ( هستی = زندگی، زندگانی، دخت = دختر ) دختر زندگی و زندگانی",
+        "details": [
+            "دختر",
+            "فارسی",
+            ""
+        ],
+        "english_name": "hasti dokht"
+    },
+    {
+        "name": "هفال",
+        "link": "https://abadis.ir/fatofa/هفال/",
+        "gender": "پسر",
+        "pronunciation": "",
+        "description": "رفیق ( نگارش کردی",
+        "details": [
+            "پسر",
+            "کردی",
+            ""
+        ],
+        "english_name": " (پسر"
+    },
+    {
+        "name": "هفدن",
+        "link": "https://abadis.ir/fatofa/هفدن/",
+        "gender": "دختر",
+        "pronunciation": "",
+        "description": "وزن شعر ( نگارش کردی",
+        "details": [
+            "دختر",
+            "کردی",
+            ""
+        ],
+        "english_name": " (دختر"
+    },
+    {
+        "name": "هفیان",
+        "link": "https://abadis.ir/fatofa/هفیان/",
+        "gender": "دختر",
+        "pronunciation": "/hafyan/",
+        "description": "آرام گرفتن، آرام گرفتن ( نگارش کردی",
+        "details": [
+            "دختر",
+            "کردی",
+            ""
+        ],
+        "english_name": "hafyan"
+    },
+    {
+        "name": "هگبه",
+        "link": "https://abadis.ir/fatofa/هگبه/",
+        "gender": "دختر",
+        "pronunciation": "",
+        "description": "رةآورد، هدیةسفر، خورجین ( نگارش کردی",
+        "details": [
+            "دختر",
+            "کردی",
+            ""
+        ],
+        "english_name": " (دختر"
+    },
+    {
+        "name": "هلبژارده",
+        "link": "https://abadis.ir/fatofa/هلبژارده/",
+        "gender": "پسر",
+        "pronunciation": "",
+        "description": "انتخاب شده ( نگارش کردی",
+        "details": [
+            "پسر",
+            "کردی",
+            ""
+        ],
+        "english_name": "ارده (پسر"
+    },
+    {
+        "name": "هلبژیر",
+        "link": "https://abadis.ir/fatofa/هلبژیر/",
+        "gender": "پسر",
+        "pronunciation": "",
+        "description": "انتخاب کننده ( نگارش کردی",
+        "details": [
+            "پسر",
+            "کردی",
+            ""
+        ],
+        "english_name": "یر (پسر"
+    },
+    {
+        "name": "هلبست",
+        "link": "https://abadis.ir/fatofa/هلبست/",
+        "gender": "پسر",
+        "pronunciation": "",
+        "description": "شعر ( نگارش کردی",
+        "details": [
+            "پسر",
+            "کردی",
+            ""
+        ],
+        "english_name": "ت (پسر"
+    },
+    {
+        "name": "هلپرین",
+        "link": "https://abadis.ir/fatofa/هلپرین/",
+        "gender": "دختر",
+        "pronunciation": "/helparin/",
+        "description": "رقصیدن، رقصیدن ( نگارش کردی",
+        "details": [
+            "دختر",
+            "کردی",
+            ""
+        ],
+        "english_name": "helparin"
+    },
+    {
+        "name": "هلدا",
+        "link": "https://abadis.ir/fatofa/هلدا/",
+        "gender": "دختر",
+        "pronunciation": "/helda/",
+        "description": "مادر خوشبو",
+        "details": [
+            "دختر",
+            "فارسی",
+            ""
+        ],
+        "english_name": "helda"
+    },
+    {
+        "name": "هلدیر",
+        "link": "https://abadis.ir/fatofa/هلدیر/",
+        "gender": "پسر",
+        "pronunciation": "/heldir/",
+        "description": "آبشار، آبشار ( نگارش کردی",
+        "details": [
+            "پسر",
+            "کردی",
+            "طبیعت"
+        ],
+        "english_name": "heldir"
+    },
+    {
+        "name": "هلگر",
+        "link": "https://abadis.ir/fatofa/هلگر/",
+        "gender": "پسر",
+        "pronunciation": "",
+        "description": "بردارندة، حامل، بلند نگةدارنده ( نگارش کردی",
+        "details": [
+            "پسر",
+            "کردی",
+            ""
+        ],
+        "english_name": " (پسر"
+    },
+    {
+        "name": "هلگورد",
+        "link": "https://abadis.ir/fatofa/هلگورد/",
+        "gender": "پسر",
+        "pronunciation": "",
+        "description": "بهترین جلودار ( نگارش کردی",
+        "details": [
+            "پسر",
+            "کردی",
+            ""
+        ],
+        "english_name": "رد (پسر"
+    },
+    {
+        "name": "هلما",
+        "link": "https://abadis.ir/fatofa/هلما/",
+        "gender": "دختر",
+        "pronunciation": "/helma/",
+        "description": "محافظ، معنی اسم را در این قسمت بنویسید خیلی صبور",
+        "details": [
+            "دختر",
+            "لاتین، عربی",
+            ""
+        ],
+        "english_name": "helma"
+    },
+    {
+        "name": "هلمت",
+        "link": "https://abadis.ir/fatofa/هلمت/",
+        "gender": "پسر",
+        "pronunciation": "",
+        "description": "حمله، هجوم ( نگارش کردی",
+        "details": [
+            "پسر",
+            "کردی",
+            ""
+        ],
+        "english_name": " (پسر"
+    },
+    {
+        "name": "هلنسا",
+        "link": "https://abadis.ir/fatofa/هلنسا/",
+        "gender": "دختر",
+        "pronunciation": "/helensa/",
+        "description": "مانند خورشید، هل ( فارسی ) + نسا ( عربی ) زنان معطر",
+        "details": [
+            "دختر",
+            "فارسی، یونانی، عربی",
+            ""
+        ],
+        "english_name": "helensa"
+    },
+    {
+        "name": "هلو",
+        "link": "https://abadis.ir/fatofa/هلو/",
+        "gender": "پسر",
+        "pronunciation": "",
+        "description": "عقاب ( نگارش کردی",
+        "details": [
+            "پسر",
+            "کردی",
+            ""
+        ],
+        "english_name": "(پسر"
+    },
+    {
+        "name": "هلورین",
+        "link": "https://abadis.ir/fatofa/هلورین/",
+        "gender": "پسر",
+        "pronunciation": "",
+        "description": "ریختن چیزی از بالا به ‏پایین ( نگارش کردی",
+        "details": [
+            "پسر",
+            "کردی",
+            ""
+        ],
+        "english_name": "ین (پسر"
+    },
+    {
+        "name": "هلیانا",
+        "link": "https://abadis.ir/fatofa/هلیانا/",
+        "gender": "دختر",
+        "pronunciation": "/helyana/",
+        "description": "مانند خورشید",
+        "details": [
+            "دختر",
+            "یونانی",
+            ""
+        ],
+        "english_name": "helyana"
+    },
+    {
+        "name": "هلیسا",
+        "link": "https://abadis.ir/fatofa/هلیسا/",
+        "gender": "دختر",
+        "pronunciation": "/helisa/",
+        "description": "دختر خورشید",
+        "details": [
+            "دختر",
+            "یونانی",
+            ""
+        ],
+        "english_name": "helisa"
+    },
+    {
+        "name": "هلین",
+        "link": "https://abadis.ir/fatofa/هلین/",
+        "gender": "دختر",
+        "pronunciation": "/helin/",
+        "description": "نور و روشنایی",
+        "details": [
+            "دختر",
+            "فرانسوی",
+            ""
+        ],
+        "english_name": "helin"
+    },
+    {
+        "name": "هلینا",
+        "link": "https://abadis.ir/fatofa/هلینا/",
+        "gender": "دختر",
+        "pronunciation": "/helina/",
+        "description": "روشنایی، نور، هلن، فرانسه از یونانی روشنایی، در اساطیر یونان همسر منلاس پادشاه اسپارت که جنگ تروا ب ...",
+        "details": [
+            "دختر",
+            "یونانی",
+            ""
+        ],
+        "english_name": "helina"
+    },
+    {
+        "name": "هلیوس",
+        "link": "https://abadis.ir/fatofa/هلیوس/",
+        "gender": "پسر",
+        "pronunciation": "",
+        "description": "هلیون، خورشید",
+        "details": [
+            "پسر",
+            "عبری",
+            ""
+        ],
+        "english_name": "س (پسر"
+    },
+    {
+        "name": "هما دیس",
+        "link": "https://abadis.ir/fatofa/هما-دیس/",
+        "gender": "دختر",
+        "pronunciation": "/h.-dis/",
+        "description": "خوش اقبال، خوشبخت و سعادتمند، ( هما، دیس ( پسوند شباهت ) )، مثل هما، شبیه به هما",
+        "details": [
+            "دختر",
+            "فارسی",
+            ""
+        ],
+        "english_name": "homa-dis"
+    },
+    {
+        "name": "همام الدین",
+        "link": "https://abadis.ir/fatofa/همام-الدین/",
+        "gender": "پسر",
+        "pronunciation": "",
+        "description": "دارای مقام و منزلت در دین",
+        "details": [
+            "پسر",
+            "عربی",
+            ""
+        ],
+        "english_name": " الدین (پسر"
+    },
+    {
+        "name": "هماوند",
+        "link": "https://abadis.ir/fatofa/هماوند/",
+        "gender": "پسر",
+        "pronunciation": "/homa-vand/",
+        "description": "از نامهای امروزی زرتشتیان",
+        "details": [
+            "پسر",
+            "فارسی",
+            ""
+        ],
+        "english_name": "homa-vand"
+    },
+    {
+        "name": "همایون دخت",
+        "link": "https://abadis.ir/fatofa/همایون-دخت/",
+        "gender": "دختر",
+        "pronunciation": "/homa-yun-dokht/",
+        "description": "دختر فرخنده و مبارک",
+        "details": [
+            "دختر",
+            "فارسی",
+            ""
+        ],
+        "english_name": "homayun-dokht"
+    },
+    {
+        "name": "همنواد",
+        "link": "https://abadis.ir/fatofa/همنواد/",
+        "gender": "پسر",
+        "pronunciation": "/ham navad/",
+        "description": "از شخصیتهای شاهنامه در زمان ساسانیان",
+        "details": [
+            "پسر",
+            "فارسی",
+            "تاریخی و کهن"
+        ],
+        "english_name": "hamnavad"
+    },
+    {
+        "name": "هموند",
+        "link": "https://abadis.ir/fatofa/هموند/",
+        "gender": "دختر",
+        "pronunciation": "",
+        "description": "اعضاء ( نگارش کردی",
+        "details": [
+            "دختر",
+            "کردی",
+            ""
+        ],
+        "english_name": "د (دختر"
+    },
+    {
+        "name": "همیشه بهار",
+        "link": "https://abadis.ir/fatofa/همیشه-بهار/",
+        "gender": "دختر",
+        "pronunciation": "",
+        "description": "گیاهی زینتی یا خودرو با گلهای زرد یا نارنجی که در تمام مدت سال دیده می شود",
+        "details": [
+            "دختر",
+            "فارسی",
+            ""
+        ],
+        "english_name": "ه بهار (دختر"
+    },
+    {
+        "name": "هنار",
+        "link": "https://abadis.ir/fatofa/هنار/",
+        "gender": "دختر",
+        "pronunciation": "/henar/",
+        "description": "مانند انار زیبا، انار ( نگارش کردی",
+        "details": [
+            "دختر",
+            "کردی",
+            ""
+        ],
+        "english_name": "henar"
+    },
+    {
+        "name": "هناس",
+        "link": "https://abadis.ir/fatofa/هناس/",
+        "gender": "دختر",
+        "pronunciation": "/henas/",
+        "description": "نفس",
+        "details": [
+            "دختر",
+            "کردی",
+            ""
+        ],
+        "english_name": "henas"
+    },
+    {
+        "name": "هناو",
+        "link": "https://abadis.ir/fatofa/هناو/",
+        "gender": "دختر",
+        "pronunciation": "/honav/",
+        "description": "زهره، شجاعت، شجاعت ( نگارش کردی",
+        "details": [
+            "دختر",
+            "کردی",
+            ""
+        ],
+        "english_name": "honav"
+    },
+    {
+        "name": "هوار",
+        "link": "https://abadis.ir/fatofa/هوار/",
+        "gender": "پسر",
+        "pronunciation": "",
+        "description": "قشلاق، خیمةسلطان در قشلاق ( نگارش کردی",
+        "details": [
+            "پسر",
+            "کردی",
+            ""
+        ],
+        "english_name": " (پسر"
+    },
+    {
+        "name": "هوال",
+        "link": "https://abadis.ir/fatofa/هوال/",
+        "gender": "پسر",
+        "pronunciation": "/haval/",
+        "description": "رفیق، خبر، رفیق ( نگارش کردی",
+        "details": [
+            "پسر",
+            "کردی",
+            ""
+        ],
+        "english_name": "haval"
+    },
+    {
+        "name": "هوبان",
+        "link": "https://abadis.ir/fatofa/هوبان/",
+        "gender": "پسر",
+        "pronunciation": "/huban/",
+        "description": "نگهبان خوبی ها",
+        "details": [
+            "پسر",
+            "فارسی",
+            ""
+        ],
+        "english_name": "huban"
+    },
+    {
+        "name": "هوبخت",
+        "link": "https://abadis.ir/fatofa/هوبخت/",
+        "gender": "دختر",
+        "pronunciation": "/hobakht/",
+        "description": "خوشبخت",
+        "details": [
+            "دختر",
+            "فارسی",
+            ""
+        ],
+        "english_name": "hobakht"
+    },
+    {
+        "name": "هوپاد",
+        "link": "https://abadis.ir/fatofa/هوپاد/",
+        "gender": "پسر",
+        "pronunciation": "/hupād/",
+        "description": "نیک سرشت، ( هو = خوب، پاد = نگهبان )، نگهبان خوب",
+        "details": [
+            "پسر",
+            "فارسی",
+            ""
+        ],
+        "english_name": "hupad"
+    },
+    {
+        "name": "هوپند",
+        "link": "https://abadis.ir/fatofa/هوپند/",
+        "gender": "دختر",
+        "pronunciation": "/hupand/",
+        "description": "ویژگی کسی که نصیحت، سفارش و توصیه های او خوب است، ( به مجاز ) پند و اندرزگوی خوب، ( هو = خوب، پند = ...",
+        "details": [
+            "دختر",
+            "فارسی",
+            ""
+        ],
+        "english_name": "hupand"
+    },
+    {
+        "name": "هوتخش",
+        "link": "https://abadis.ir/fatofa/هوتخش/",
+        "gender": "پسر",
+        "pronunciation": "",
+        "description": "صنعت گر ( نگارش کردی",
+        "details": [
+            "پسر",
+            "کردی",
+            ""
+        ],
+        "english_name": "ش (پسر"
+    },
+    {
+        "name": "هوتسا",
+        "link": "https://abadis.ir/fatofa/هوتسا/",
+        "gender": "دختر",
+        "pronunciation": "/hutsā/",
+        "description": "آتوسا، ( = آتوسا )",
+        "details": [
+            "دختر",
+            "یونانی",
+            ""
+        ],
+        "english_name": "hutsa"
+    },
+    {
+        "name": "هوتوس",
+        "link": "https://abadis.ir/fatofa/هوتوس/",
+        "gender": "دختر",
+        "pronunciation": "",
+        "description": "آتوسا، نام دختر کوروش پادشاه هخامنشی، همسر داریوش و مادر خشایارشا",
+        "details": [
+            "دختر",
+            "فارسی",
+            ""
+        ],
+        "english_name": "س (دختر"
+    },
+    {
+        "name": "هوچهر",
+        "link": "https://abadis.ir/fatofa/هوچهر/",
+        "gender": "دختر",
+        "pronunciation": "/hučehr/",
+        "description": "دارای صورت خوب، خوبرو، ( هو = خوب، چهر = صورت، چهره، نژاد )، ( به مجاز ) زیبارو، دارای نژاد و اصل خ ...",
+        "details": [
+            "دختر",
+            "فارسی",
+            ""
+        ],
+        "english_name": "huchehr"
+    },
+    {
+        "name": "هودین",
+        "link": "https://abadis.ir/fatofa/هودین/",
+        "gender": "پسر",
+        "pronunciation": "/hudin/",
+        "description": "دین خوب، آئین نیک، ( هو = خوب، دین ) دین خوب، آن که دارای دین و آئین خوب باشد",
+        "details": [
+            "پسر",
+            "فارسی",
+            "تاریخی و کهن"
+        ],
+        "english_name": "hudin"
+    },
+    {
+        "name": "هوراز",
+        "link": "https://abadis.ir/fatofa/هوراز/",
+        "gender": "پسر",
+        "pronunciation": "/horaz/",
+        "description": "دوست صمیمی، دوست صمیمی ( نگارش کردی",
+        "details": [
+            "پسر",
+            "کردی",
+            ""
+        ],
+        "english_name": "horaz"
+    },
+    {
+        "name": "هورآسا",
+        "link": "https://abadis.ir/fatofa/هوراسا/",
+        "gender": "دختر",
+        "pronunciation": "/hur āsā/",
+        "description": "خورشید آسا، مثل خورشید، زیبارو، ( هور = خورشید، آسا ( پسوند شباهت ) )",
+        "details": [
+            "دختر",
+            "فارسی، اوستایی",
+            ""
+        ],
+        "english_name": "hur asa"
+    },
+    {
+        "name": "هورآفرین",
+        "link": "https://abadis.ir/fatofa/هورافرین/",
+        "gender": "دختر",
+        "pronunciation": "/hur afarin/",
+        "description": "آفریننده خورشید",
+        "details": [
+            "دختر",
+            "فارسی",
+            ""
+        ],
+        "english_name": "hur afarin"
+    },
+    {
+        "name": "هورامان",
+        "link": "https://abadis.ir/fatofa/هورامان/",
+        "gender": "پسر",
+        "pronunciation": "",
+        "description": "منطقةایی در کردستان نزدیک ( نگارش کردی",
+        "details": [
+            "پسر",
+            "کردی",
+            ""
+        ],
+        "english_name": "مان (پسر"
+    },
+    {
+        "name": "هوراماه",
+        "link": "https://abadis.ir/fatofa/هوراماه/",
+        "gender": "دختر",
+        "pronunciation": "/hura-mah/",
+        "description": "دختر زیبای بهشتی",
+        "details": [
+            "دختر",
+            "فارسی",
+            ""
+        ],
+        "english_name": "hura-mah"
+    },
+    {
+        "name": "هوراوش",
+        "link": "https://abadis.ir/fatofa/هوراوش/",
+        "gender": "دختر",
+        "pronunciation": "/huravash/",
+        "description": "آواز زیبا",
+        "details": [
+            "دختر",
+            "فارسی",
+            ""
+        ],
+        "english_name": "huravash"
+    },
+    {
+        "name": "هورتاش",
+        "link": "https://abadis.ir/fatofa/هورتاش/",
+        "gender": "دختر",
+        "pronunciation": "/hurtash/",
+        "description": "آنکه چون خورشید نورانی است، هور ( فارسی ) + تاش ( ترکی ) آنکه چون خورشید نورانی است",
+        "details": [
+            "دختر",
+            "ترکی، فارسی",
+            ""
+        ],
+        "english_name": "hurtash"
+    },
+    {
+        "name": "هورتن",
+        "link": "https://abadis.ir/fatofa/هورتن/",
+        "gender": "دختر",
+        "pronunciation": "/hurtan/",
+        "description": "آن که تن و بدنی پاک و درخشان چون خورشید دارد",
+        "details": [
+            "دختر",
+            "فارسی",
+            ""
+        ],
+        "english_name": "hurtan"
+    },
+    {
+        "name": "هورچهر",
+        "link": "https://abadis.ir/fatofa/هورچهر/",
+        "gender": "دختر",
+        "pronunciation": "/hur čehr/",
+        "description": "خورشید چهره، آفتاب روی، ( در اعلام ) نام جوانترین پسر زرتشت، آن که چهره و سیمایی درخشان و نورانی چو ...",
+        "details": [
+            "دختر",
+            "فارسی",
+            ""
+        ],
+        "english_name": "hur chehr"
+    },
+    {
         "name": "هورخ",
         "link": "https://abadis.ir/fatofa/هورخ/",
         "gender": "دختر",
@@ -9,7 +867,8 @@
             "دختر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "horokh"
     },
     {
         "name": "هوردخت",
@@ -21,7 +880,8 @@
             "دختر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "hur dokht"
     },
     {
         "name": "هوردیس",
@@ -33,7 +893,8 @@
             "دختر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "hurdis"
     },
     {
         "name": "هوررخ",
@@ -45,7 +906,8 @@
             "دختر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "hur rokh"
     },
     {
         "name": "هورسان",
@@ -57,7 +919,8 @@
             "دختر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "hursan"
     },
     {
         "name": "هورفر",
@@ -69,7 +932,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "hur far"
     },
     {
         "name": "هورمند",
@@ -81,7 +945,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "hurmand"
     },
     {
         "name": "هورمهر",
@@ -93,7 +958,8 @@
             "دختر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "hurmehr"
     },
     {
         "name": "هورمک",
@@ -105,7 +971,8 @@
             "پسر",
             "اوستایی، پهلوی",
             ""
-        ]
+        ],
+        "english_name": "ک (پسر"
     },
     {
         "name": "هورناز",
@@ -117,7 +984,8 @@
             "دختر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "hurnaz"
     },
     {
         "name": "هورنگ",
@@ -129,7 +997,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "hurang"
     },
     {
         "name": "هوروش",
@@ -141,7 +1010,8 @@
             "دختر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "hurvash"
     },
     {
         "name": "هوریار",
@@ -153,7 +1023,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "huryar"
     },
     {
         "name": "هوژان",
@@ -165,7 +1036,8 @@
             "دختر",
             "کردی",
             ""
-        ]
+        ],
+        "english_name": "huzhan"
     },
     {
         "name": "هوژین",
@@ -177,7 +1049,8 @@
             "دختر",
             "کردی",
             ""
-        ]
+        ],
+        "english_name": "huzhin"
     },
     {
         "name": "هوسان",
@@ -189,7 +1062,8 @@
             "دختر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "hosan"
     },
     {
         "name": "هوسکر",
@@ -201,7 +1075,8 @@
             "پسر",
             "کردی",
             ""
-        ]
+        ],
+        "english_name": "ر (پسر"
     },
     {
         "name": "هوشدار",
@@ -213,7 +1088,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "hushdar"
     },
     {
         "name": "هوفر",
@@ -225,7 +1101,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "hufar"
     },
     {
         "name": "هوفریا",
@@ -237,7 +1114,8 @@
             "دختر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "hu fariya"
     },
     {
         "name": "هوگر",
@@ -249,7 +1127,8 @@
             "پسر",
             "کردی",
             ""
-        ]
+        ],
+        "english_name": "huger"
     },
     {
         "name": "هوگل",
@@ -261,7 +1140,8 @@
             "دختر",
             "فارسی",
             "گل"
-        ]
+        ],
+        "english_name": "hu gol"
     },
     {
         "name": "هوگون",
@@ -273,7 +1153,8 @@
             "دختر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "hugun"
     },
     {
         "name": "هولان",
@@ -285,7 +1166,8 @@
             "پسر",
             "کردی",
             ""
-        ]
+        ],
+        "english_name": "ن (پسر"
     },
     {
         "name": "هوم",
@@ -297,7 +1179,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "(پسر"
     },
     {
         "name": "هوما",
@@ -309,7 +1192,8 @@
             "دختر",
             "کردی",
             ""
-        ]
+        ],
+        "english_name": "huma"
     },
     {
         "name": "هومایا",
@@ -321,7 +1205,8 @@
             "دختر",
             "اوستایی",
             ""
-        ]
+        ],
+        "english_name": "humaya"
     },
     {
         "name": "هونامیک",
@@ -333,7 +1218,8 @@
             "دختر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "hu namik"
     },
     {
         "name": "هونراوه",
@@ -345,7 +1231,8 @@
             "دختر",
             "کردی",
             ""
-        ]
+        ],
+        "english_name": "اوه (دختر"
     },
     {
         "name": "هونیاک",
@@ -357,7 +1244,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "honyak"
     },
     {
         "name": "هویاد",
@@ -369,7 +1257,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "hoyad"
     },
     {
         "name": "هی را",
@@ -381,7 +1270,8 @@
             "پسر",
             "کردی",
             ""
-        ]
+        ],
+        "english_name": "hira"
     },
     {
         "name": "هیبا",
@@ -393,7 +1283,8 @@
             "دختر",
             "عربی",
             ""
-        ]
+        ],
+        "english_name": "hiba"
     },
     {
         "name": "هیتا",
@@ -405,7 +1296,8 @@
             "دختر",
             "فارسی",
             "کهکشانی"
-        ]
+        ],
+        "english_name": "hita"
     },
     {
         "name": "هیتاسب",
@@ -417,7 +1309,8 @@
             "پسر",
             "فارسی",
             "تاریخی و کهن"
-        ]
+        ],
+        "english_name": "hitasb"
     },
     {
         "name": "هیدارا",
@@ -429,7 +1322,8 @@
             "پسر",
             "لاتین",
             ""
-        ]
+        ],
+        "english_name": "hidara"
     },
     {
         "name": "هیدخت",
@@ -441,7 +1335,8 @@
             "دختر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "hidokht"
     },
     {
         "name": "هیران",
@@ -453,7 +1348,8 @@
             "دختر",
             "کردی",
             ""
-        ]
+        ],
+        "english_name": "hiran"
     },
     {
         "name": "هیرساد",
@@ -465,7 +1361,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "hirsad"
     },
     {
         "name": "هیرمان",
@@ -477,7 +1374,8 @@
             "پسر",
             "لری",
             ""
-        ]
+        ],
+        "english_name": "hirman"
     },
     {
         "name": "هیرمند",
@@ -489,7 +1387,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "hirmand"
     },
     {
         "name": "هیروان",
@@ -501,7 +1400,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "hirvan"
     },
     {
         "name": "هیرود",
@@ -513,7 +1413,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "hirud"
     },
     {
         "name": "هیرکان",
@@ -525,7 +1426,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "hirkan"
     },
     {
         "name": "هیزان",
@@ -537,7 +1439,8 @@
             "دختر",
             "کردی",
             ""
-        ]
+        ],
+        "english_name": "hizan"
     },
     {
         "name": "هیژان",
@@ -549,7 +1452,8 @@
             "دختر",
             "کردی",
             ""
-        ]
+        ],
+        "english_name": "hizhan"
     },
     {
         "name": "هیشنگ",
@@ -561,7 +1465,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "گ (پسر"
     },
     {
         "name": "هیشو",
@@ -573,7 +1478,8 @@
             "پسر",
             "فارسی",
             "تاریخی و کهن"
-        ]
+        ],
+        "english_name": "hisho"
     },
     {
         "name": "هیلدا",
@@ -585,7 +1491,8 @@
             "دختر",
             "لاتین",
             ""
-        ]
+        ],
+        "english_name": "hilda"
     },
     {
         "name": "هیلما",
@@ -597,7 +1504,8 @@
             "دختر",
             "لری",
             ""
-        ]
+        ],
+        "english_name": "hilma"
     },
     {
         "name": "هیلمی",
@@ -609,7 +1517,8 @@
             "دختر",
             "لری",
             ""
-        ]
+        ],
+        "english_name": "hilmi"
     },
     {
         "name": "هیلناز",
@@ -621,7 +1530,8 @@
             "دختر",
             "لری",
             ""
-        ]
+        ],
+        "english_name": "hilnaz"
     },
     {
         "name": "هیمو",
@@ -633,7 +1543,8 @@
             "دختر",
             "کردی",
             ""
-        ]
+        ],
+        "english_name": "himo"
     },
     {
         "name": "هینا",
@@ -645,7 +1556,8 @@
             "دختر",
             "کردی",
             ""
-        ]
+        ],
+        "english_name": "hina"
     },
     {
         "name": "هینان",
@@ -657,7 +1569,8 @@
             "دختر",
             "کردی",
             ""
-        ]
+        ],
+        "english_name": "hainan"
     },
     {
         "name": "هیواد",
@@ -669,7 +1582,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "hivad"
     },
     {
         "name": "واتیار",
@@ -681,7 +1595,8 @@
             "پسر",
             "کردی",
             ""
-        ]
+        ],
+        "english_name": "vatyar"
     },
     {
         "name": "وادا",
@@ -693,7 +1608,8 @@
             "پسر",
             "فارسی، آشوری",
             ""
-        ]
+        ],
+        "english_name": "vada"
     },
     {
         "name": "وادگان",
@@ -705,7 +1621,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "vadgan"
     },
     {
         "name": "وادیار",
@@ -717,7 +1634,8 @@
             "پسر",
             "کردی",
             ""
-        ]
+        ],
+        "english_name": "vadyar"
     },
     {
         "name": "وارتوش",
@@ -729,7 +1647,8 @@
             "دختر",
             "ارمنی",
             ""
-        ]
+        ],
+        "english_name": "vartosh"
     },
     {
         "name": "واروژ",
@@ -741,7 +1660,8 @@
             "پسر",
             "ارمنی",
             ""
-        ]
+        ],
+        "english_name": "vaaroozh"
     },
     {
         "name": "واروژان",
@@ -753,7 +1673,8 @@
             "پسر",
             "ارمنی",
             ""
-        ]
+        ],
+        "english_name": "varuzhan"
     },
     {
         "name": "والا علی",
@@ -765,7 +1686,8 @@
             "پسر",
             "عربی",
             "مذهبی و قرآنی"
-        ]
+        ],
+        "english_name": "vala-ali"
     },
     {
         "name": "والا یار",
@@ -777,7 +1699,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "vala-yar"
     },
     {
         "name": "والارضا",
@@ -789,7 +1712,8 @@
             "پسر",
             "فارسی، عربی",
             "مذهبی و قرآنی"
-        ]
+        ],
+        "english_name": "vala-reza"
     },
     {
         "name": "والریا",
@@ -801,7 +1725,8 @@
             "دختر",
             "لاتین",
             ""
-        ]
+        ],
+        "english_name": "valeria"
     },
     {
         "name": "وانان",
@@ -813,7 +1738,8 @@
             "پسر",
             "فارسی",
             "تاریخی و کهن"
-        ]
+        ],
+        "english_name": "vanan"
     },
     {
         "name": "وانتیار",
@@ -825,7 +1751,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "vantiyar"
     },
     {
         "name": "وانوش",
@@ -837,7 +1764,8 @@
             "دختر",
             "ارمنی",
             ""
-        ]
+        ],
+        "english_name": "vanosh"
     },
     {
         "name": "وانیا",
@@ -849,7 +1777,8 @@
             "دختر",
             "فارسی، عربی",
             ""
-        ]
+        ],
+        "english_name": "vaniya"
     },
     {
         "name": "وانیشا",
@@ -861,7 +1790,8 @@
             "دختر",
             "مازندرانی",
             ""
-        ]
+        ],
+        "english_name": "vanisha"
     },
     {
         "name": "وایو",
@@ -873,7 +1803,8 @@
             "دختر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "vayo"
     },
     {
         "name": "وترا",
@@ -885,7 +1816,8 @@
             "دختر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "vatra"
     },
     {
         "name": "وجاسب",
@@ -897,7 +1829,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "vajasb"
     },
     {
         "name": "وچان",
@@ -909,7 +1842,8 @@
             "دختر",
             "کردی",
             ""
-        ]
+        ],
+        "english_name": "vachan"
     },
     {
         "name": "وحدانه",
@@ -921,7 +1855,8 @@
             "دختر",
             "فارسی، عربی",
             ""
-        ]
+        ],
+        "english_name": "vahdaneh"
     },
     {
         "name": "وحیدالدین",
@@ -933,7 +1868,8 @@
             "پسر",
             "عربی",
             "مذهبی و قرآنی"
-        ]
+        ],
+        "english_name": "vahidoddin"
     },
     {
         "name": "وخش داد",
@@ -945,7 +1881,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "داد (پسر"
     },
     {
         "name": "ودا",
@@ -957,7 +1894,8 @@
             "دختر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "veda"
     },
     {
         "name": "ورازبنده",
@@ -969,7 +1907,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "varaz bandeh"
     },
     {
         "name": "ورازپیروز",
@@ -981,7 +1920,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "varaz piroz"
     },
     {
         "name": "ورازتیرداد",
@@ -993,7 +1933,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "varaz tirdad"
     },
     {
         "name": "ورازداد",
@@ -1005,7 +1946,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "varaz dad"
     },
     {
         "name": "ورازمهر",
@@ -1017,7 +1959,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "varaz mehr"
     },
     {
         "name": "ورازنرسی",
@@ -1029,7 +1972,8 @@
             "پسر",
             "فارسی",
             "تاریخی و کهن"
-        ]
+        ],
+        "english_name": "varaz nersi"
     },
     {
         "name": "وردا",
@@ -1041,7 +1985,8 @@
             "پسر",
             "فارسی",
             "گل"
-        ]
+        ],
+        "english_name": "varda"
     },
     {
         "name": "وردآفرید",
@@ -1053,7 +1998,8 @@
             "دختر",
             "فارسی",
             "گل"
-        ]
+        ],
+        "english_name": "vard-afarid"
     },
     {
         "name": "وردان",
@@ -1065,7 +2011,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "verdan"
     },
     {
         "name": "وردآور",
@@ -1077,7 +2024,8 @@
             "دختر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "ور (دختر"
     },
     {
         "name": "وردگل",
@@ -1089,7 +2037,8 @@
             "دختر",
             "فارسی",
             "گل"
-        ]
+        ],
+        "english_name": "vard gol"
     },
     {
         "name": "ورزا",
@@ -1101,7 +2050,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "varza"
     },
     {
         "name": "ورزاک",
@@ -1113,7 +2063,8 @@
             "پسر",
             "فارسی",
             "تاریخی و کهن"
-        ]
+        ],
+        "english_name": "varzak"
     },
     {
         "name": "ورزگمهر",
@@ -1125,7 +2076,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "مهر (پسر"
     },
     {
         "name": "ورزمیار",
@@ -1137,7 +2089,8 @@
             "پسر",
             "کردی",
             ""
-        ]
+        ],
+        "english_name": "یار (پسر"
     },
     {
         "name": "ورزیار",
@@ -1149,7 +2102,8 @@
             "پسر",
             "کردی",
             ""
-        ]
+        ],
+        "english_name": "ار (پسر"
     },
     {
         "name": "ورزیر",
@@ -1161,7 +2115,8 @@
             "پسر",
             "کردی",
             ""
-        ]
+        ],
+        "english_name": "ر (پسر"
     },
     {
         "name": "ورشنگ",
@@ -1173,7 +2128,8 @@
             "پسر",
             "کردی",
             ""
-        ]
+        ],
+        "english_name": "varshang"
     },
     {
         "name": "ورگر",
@@ -1185,7 +2141,8 @@
             "پسر",
             "کردی",
             ""
-        ]
+        ],
+        "english_name": " (پسر"
     },
     {
         "name": "ورگیر",
@@ -1197,7 +2154,8 @@
             "پسر",
             "کردی",
             ""
-        ]
+        ],
+        "english_name": "ر (پسر"
     },
     {
         "name": "ورهران",
@@ -1209,7 +2167,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "varahran"
     },
     {
         "name": "ورونیکا",
@@ -1221,7 +2180,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "voronika"
     },
     {
         "name": "وریشه",
@@ -1233,7 +2193,8 @@
             "دختر",
             "کردی",
             ""
-        ]
+        ],
+        "english_name": "varisheh"
     },
     {
         "name": "وژاسپ",
@@ -1245,7 +2206,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "vazhasb"
     },
     {
         "name": "وژمه",
@@ -1257,7 +2219,8 @@
             "دختر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "vazhmeh"
     },
     {
         "name": "وساک",
@@ -1269,7 +2232,8 @@
             "پسر",
             "فارسی",
             "تاریخی و کهن"
-        ]
+        ],
+        "english_name": "vesak"
     },
     {
         "name": "وسپار",
@@ -1281,7 +2245,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "vaspar"
     },
     {
         "name": "وستهم",
@@ -1293,7 +2258,8 @@
             "پسر",
             "فارسی",
             "تاریخی و کهن"
-        ]
+        ],
+        "english_name": "vastaham"
     },
     {
         "name": "وستوی",
@@ -1305,7 +2271,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "ی (پسر"
     },
     {
         "name": "وسمه",
@@ -1317,7 +2284,8 @@
             "دختر",
             "عربی",
             ""
-        ]
+        ],
+        "english_name": "vasmeh"
     },
     {
         "name": "وش",
@@ -1329,7 +2297,8 @@
             "دختر",
             "کردی",
             ""
-        ]
+        ],
+        "english_name": "دختر"
     },
     {
         "name": "وشان",
@@ -1341,7 +2310,8 @@
             "دختر",
             "کردی",
             ""
-        ]
+        ],
+        "english_name": "vashan"
     },
     {
         "name": "وشم",
@@ -1353,7 +2323,8 @@
             "پسر",
             "مازندرانی، گیلکی",
             ""
-        ]
+        ],
+        "english_name": "voshm"
     },
     {
         "name": "وشنام",
@@ -1365,7 +2336,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "vashnam"
     },
     {
         "name": "وفا اندیش",
@@ -1377,7 +2349,8 @@
             "پسر",
             "فارسی، عربی",
             ""
-        ]
+        ],
+        "english_name": "اندیش (پسر"
     },
     {
         "name": "ولام",
@@ -1389,7 +2362,8 @@
             "پسر",
             "کردی",
             ""
-        ]
+        ],
+        "english_name": "valam"
     },
     {
         "name": "ولگا",
@@ -1401,7 +2375,8 @@
             "دختر",
             "لاتین، روسی",
             ""
-        ]
+        ],
+        "english_name": "valga"
     },
     {
         "name": "ولیداد",
@@ -1413,7 +2388,8 @@
             "پسر",
             "فارسی، عربی",
             ""
-        ]
+        ],
+        "english_name": "validad"
     },
     {
         "name": "وناز",
@@ -1425,7 +2401,8 @@
             "دختر",
             "کردی",
             ""
-        ]
+        ],
+        "english_name": "vanaz"
     },
     {
         "name": "ونسا",
@@ -1437,7 +2414,8 @@
             "دختر",
             "لاتین",
             ""
-        ]
+        ],
+        "english_name": "vanessa"
     },
     {
         "name": "ونن",
@@ -1449,7 +2427,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "(پسر"
     },
     {
         "name": "ونوشا",
@@ -1461,7 +2440,8 @@
             "دختر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "venusha"
     },
     {
         "name": "ونون",
@@ -1473,7 +2453,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": " (پسر"
     },
     {
         "name": "وه آفرید",
@@ -1485,7 +2466,8 @@
             "دختر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "فرید (دختر"
     },
     {
         "name": "وه آفرین",
@@ -1497,7 +2479,8 @@
             "دختر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "فرین (دختر"
     },
     {
         "name": "وه پناه",
@@ -1509,7 +2492,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "ناه (پسر"
     },
     {
         "name": "وه نوش",
@@ -1521,7 +2505,8 @@
             "دختر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "وش (دختر"
     },
     {
         "name": "وه وران",
@@ -1533,7 +2518,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "ران (پسر"
     },
     {
         "name": "وهار",
@@ -1545,7 +2531,8 @@
             "دختر",
             "کردی",
             ""
-        ]
+        ],
+        "english_name": "vehar"
     },
     {
         "name": "وهامان",
@@ -1557,7 +2544,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "vahaman"
     },
     {
         "name": "وهان",
@@ -1569,7 +2557,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "vahan"
     },
     {
         "name": "وهبرز",
@@ -1581,7 +2570,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "ز (پسر"
     },
     {
         "name": "وهرام شاپور",
@@ -1593,7 +2583,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "م شاپور (پسر"
     },
     {
         "name": "وهرام گشسب",
@@ -1605,7 +2596,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "م گشسب (پسر"
     },
     {
         "name": "وهرو",
@@ -1617,7 +2609,8 @@
             "دختر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "vahro"
     },
     {
         "name": "وهزاد",
@@ -1629,7 +2622,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "vahzad"
     },
     {
         "name": "وهسود",
@@ -1641,7 +2635,8 @@
             "پسر",
             "فارسی",
             "تاریخی و کهن"
-        ]
+        ],
+        "english_name": "vahsod"
     },
     {
         "name": "وهشاپور",
@@ -1653,7 +2648,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "پور (پسر"
     },
     {
         "name": "وهمهر",
@@ -1665,7 +2661,8 @@
             "پسر",
             "فارسی",
             "تاریخی و کهن"
-        ]
+        ],
+        "english_name": "vahmehr"
     },
     {
         "name": "وهنیا",
@@ -1677,7 +2674,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "vahnia"
     },
     {
         "name": "وهومن",
@@ -1689,7 +2687,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "ن (پسر"
     },
     {
         "name": "وهیستا",
@@ -1701,7 +2700,8 @@
             "دختر",
             "اوستایی",
             ""
-        ]
+        ],
+        "english_name": "vahista"
     },
     {
         "name": "وی ستور",
@@ -1713,7 +2713,8 @@
             "پسر",
             "پهلوی، اوستایی",
             ""
-        ]
+        ],
+        "english_name": "vistor"
     },
     {
         "name": "ویارش",
@@ -1725,7 +2726,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "viyarash"
     },
     {
         "name": "ویدیا",
@@ -1737,7 +2739,8 @@
             "دختر",
             "سانسکریت",
             ""
-        ]
+        ],
+        "english_name": "vidiya"
     },
     {
         "name": "ویراب",
@@ -1749,7 +2752,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "virab"
     },
     {
         "name": "ویراک",
@@ -1761,7 +2765,8 @@
             "پسر",
             "لری",
             ""
-        ]
+        ],
+        "english_name": "virak"
     },
     {
         "name": "ویسپار",
@@ -1773,7 +2778,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "vispar"
     },
     {
         "name": "ویستاخ",
@@ -1785,7 +2791,8 @@
             "پسر",
             "پهلوی",
             ""
-        ]
+        ],
+        "english_name": "vistakh"
     },
     {
         "name": "ویگن",
@@ -1797,7 +2804,8 @@
             "پسر",
             "ارمنی",
             ""
-        ]
+        ],
+        "english_name": "vigen"
     },
     {
         "name": "ویناسب",
@@ -1809,7 +2817,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "vinasb"
     },
     {
         "name": "ویوات",
@@ -1821,7 +2830,8 @@
             "دختر",
             "فرانسوی",
             "گل"
-        ]
+        ],
+        "english_name": "vivat"
     },
     {
         "name": "ویوان",
@@ -1833,7 +2843,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "vivan"
     },
     {
         "name": "ویولا",
@@ -1845,7 +2856,8 @@
             "دختر",
             "لاتین، ایتالیایی",
             "هنری"
-        ]
+        ],
+        "english_name": "viyola"
     },
     {
         "name": "ویولت",
@@ -1857,7 +2869,8 @@
             "دختر",
             "فرانسوی",
             "گل"
-        ]
+        ],
+        "english_name": "viyulet"
     },
     {
         "name": "ویویان",
@@ -1869,7 +2882,8 @@
             "پسر",
             "لاتین",
             ""
-        ]
+        ],
+        "english_name": "viviyan"
     },
     {
         "name": "ویوین",
@@ -1881,7 +2895,8 @@
             "دختر",
             "فرانسوی",
             ""
-        ]
+        ],
+        "english_name": "vivienne"
     },
     {
         "name": "کاآن",
@@ -1893,7 +2908,8 @@
             "پسر",
             "ترکی",
             ""
-        ]
+        ],
+        "english_name": "kaan"
     },
     {
         "name": "کاپر",
@@ -1905,7 +2921,8 @@
             "پسر",
             "مازندرانی",
             ""
-        ]
+        ],
+        "english_name": "kaper"
     },
     {
         "name": "کاترین",
@@ -1917,7 +2934,8 @@
             "دختر",
             "فرانسوی",
             ""
-        ]
+        ],
+        "english_name": "katrin"
     },
     {
         "name": "کاترینا",
@@ -1929,7 +2947,8 @@
             "دختر",
             "لاتین، ایتالیایی",
             ""
-        ]
+        ],
+        "english_name": "katrina"
     },
     {
         "name": "کاتوزا",
@@ -1941,7 +2960,8 @@
             "دختر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "katuza"
     },
     {
         "name": "کاتیا",
@@ -1953,7 +2973,8 @@
             "دختر",
             "لاتین، روسی",
             ""
-        ]
+        ],
+        "english_name": "katiya"
     },
     {
         "name": "کادوسا",
@@ -1965,7 +2986,8 @@
             "دختر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "kadusa"
     },
     {
         "name": "کارآک",
@@ -1977,7 +2999,8 @@
             "پسر",
             "ترکی",
             ""
-        ]
+        ],
+        "english_name": "karak"
     },
     {
         "name": "کارتال",
@@ -1989,7 +3012,8 @@
             "پسر",
             "ترکی",
             "پرنده"
-        ]
+        ],
+        "english_name": "kartal"
     },
     {
         "name": "کاردار",
@@ -2001,7 +3025,8 @@
             "پسر",
             "فارسی",
             "تاریخی و کهن"
-        ]
+        ],
+        "english_name": "kardar"
     },
     {
         "name": "کاردلن",
@@ -2013,7 +3038,8 @@
             "دختر",
             "ترکی",
             "گل"
-        ]
+        ],
+        "english_name": "kardelen"
     },
     {
         "name": "کاردوس",
@@ -2025,7 +3051,8 @@
             "پسر",
             "کردی",
             ""
-        ]
+        ],
+        "english_name": "kardos"
     },
     {
         "name": "کارلوس",
@@ -2037,7 +3064,8 @@
             "پسر",
             "لاتین",
             ""
-        ]
+        ],
+        "english_name": "carlos"
     },
     {
         "name": "کارمانیا",
@@ -2049,7 +3077,8 @@
             "دختر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "karmania"
     },
     {
         "name": "کارمیلا",
@@ -2061,7 +3090,8 @@
             "دختر",
             "لاتین",
             ""
-        ]
+        ],
+        "english_name": "carmilla"
     },
     {
         "name": "کارولینا",
@@ -2073,7 +3103,8 @@
             "دختر",
             "لاتین",
             ""
-        ]
+        ],
+        "english_name": "karolina"
     },
     {
         "name": "کاژاو",
@@ -2085,7 +3116,8 @@
             "پسر",
             "کردی",
             ""
-        ]
+        ],
+        "english_name": "kazhav"
     },
     {
         "name": "کاژین",
@@ -2097,7 +3129,8 @@
             "دختر",
             "کردی",
             ""
-        ]
+        ],
+        "english_name": "kazhin"
     },
     {
         "name": "کاساندان",
@@ -2109,7 +3142,8 @@
             "دختر",
             "فارسی",
             "تاریخی و کهن"
-        ]
+        ],
+        "english_name": "kasandan"
     },
     {
         "name": "کافور",
@@ -2121,7 +3155,8 @@
             "پسر",
             "سانسکریت",
             ""
-        ]
+        ],
+        "english_name": "ر (پسر"
     },
     {
         "name": "کالو",
@@ -2133,7 +3168,8 @@
             "پسر",
             "فارسی",
             "تاریخی و کهن"
-        ]
+        ],
+        "english_name": "kalo"
     },
     {
         "name": "کالین",
@@ -2145,7 +3181,8 @@
             "دختر",
             "کردی",
             ""
-        ]
+        ],
+        "english_name": "kalin"
     },
     {
         "name": "کامبد",
@@ -2157,7 +3194,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "kambod"
     },
     {
         "name": "کامداد",
@@ -2169,7 +3207,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "kamdad"
     },
     {
         "name": "کامدخت",
@@ -2181,7 +3220,8 @@
             "دختر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "kam dokht"
     },
     {
         "name": "کامراز",
@@ -2193,7 +3233,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "kamraz"
     },
     {
         "name": "کامشا",
@@ -2205,7 +3246,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "kamsha"
     },
     {
         "name": "کامشاد",
@@ -2217,7 +3259,8 @@
             "پسر",
             "کردی، فارسی",
             ""
-        ]
+        ],
+        "english_name": "kamshad"
     },
     {
         "name": "کاملین",
@@ -2229,7 +3272,8 @@
             "دختر",
             "لاتین",
             ""
-        ]
+        ],
+        "english_name": "kamelin"
     },
     {
         "name": "کامناز",
@@ -2241,7 +3285,8 @@
             "دختر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "kam naz"
     },
     {
         "name": "کامه",
@@ -2253,7 +3298,8 @@
             "دختر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "kameh"
     },
     {
         "name": "کامک",
@@ -2265,7 +3311,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "kamak"
     },
     {
         "name": "کامیشا",
@@ -2277,7 +3324,8 @@
             "دختر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "kamisha"
     },
     {
         "name": "کامیلا",
@@ -2289,7 +3337,8 @@
             "دختر",
             "لاتین",
             ""
-        ]
+        ],
+        "english_name": "kamila"
     },
     {
         "name": "کان بیدار",
@@ -2301,7 +3350,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "بیدار (پسر"
     },
     {
         "name": "کاندیش",
@@ -2313,7 +3363,8 @@
             "پسر",
             "کردی",
             ""
-        ]
+        ],
+        "english_name": "kandish"
     },
     {
         "name": "کانیلان",
@@ -2325,7 +3376,8 @@
             "دختر",
             "کردی",
             ""
-        ]
+        ],
+        "english_name": "kanilan"
     },
     {
         "name": "کاووش",
@@ -2337,7 +3389,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "ش (پسر"
     },
     {
         "name": "کاکو",
@@ -2349,7 +3402,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": " (پسر"
     },
     {
         "name": "کاکوتی",
@@ -2361,7 +3415,8 @@
             "دختر",
             "ترکی",
             "طبیعت"
-        ]
+        ],
+        "english_name": "kakuti"
     },
     {
         "name": "کایا",
@@ -2373,7 +3428,8 @@
             "پسر",
             "ترکی",
             ""
-        ]
+        ],
+        "english_name": "kaya"
     },
     {
         "name": "کایان",
@@ -2385,7 +3441,8 @@
             "پسر",
             "ترکی",
             ""
-        ]
+        ],
+        "english_name": "kayan"
     },
     {
         "name": "کایاهان",
@@ -2397,7 +3454,8 @@
             "پسر",
             "ترکی",
             ""
-        ]
+        ],
+        "english_name": "kayahan"
     },
     {
         "name": "کایرا",
@@ -2409,7 +3467,8 @@
             "دختر",
             "ترکی",
             ""
-        ]
+        ],
+        "english_name": "kaira"
     },
     {
         "name": "کایلین",
@@ -2421,7 +3480,8 @@
             "دختر",
             "لاتین",
             ""
-        ]
+        ],
+        "english_name": "kailin"
     },
     {
         "name": "کبرا",
@@ -2433,7 +3493,8 @@
             "دختر",
             "عربی",
             ""
-        ]
+        ],
+        "english_name": "kobra"
     },
     {
         "name": "کبوده",
@@ -2445,7 +3506,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "ه (پسر"
     },
     {
         "name": "کجیر",
@@ -2457,7 +3519,8 @@
             "پسر",
             "کردی",
             ""
-        ]
+        ],
+        "english_name": "kajir"
     },
     {
         "name": "کدمان",
@@ -2469,7 +3532,8 @@
             "پسر",
             "فارسی",
             "تاریخی و کهن"
-        ]
+        ],
+        "english_name": "kadman"
     },
     {
         "name": "کرام الدین",
@@ -2481,7 +3545,8 @@
             "پسر",
             "عربی",
             ""
-        ]
+        ],
+        "english_name": " الدین (پسر"
     },
     {
         "name": "کردعلی",
@@ -2493,7 +3558,8 @@
             "پسر",
             "فارسی، عربی",
             ""
-        ]
+        ],
+        "english_name": "لی (پسر"
     },
     {
         "name": "کردوشا",
@@ -2505,7 +3571,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "kardosha"
     },
     {
         "name": "کردیار",
@@ -2517,7 +3584,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "kordyar"
     },
     {
         "name": "کرم الله",
@@ -2529,7 +3597,8 @@
             "پسر",
             "عربی",
             ""
-        ]
+        ],
+        "english_name": "الله (پسر"
     },
     {
         "name": "کریشنا",
@@ -2541,7 +3610,8 @@
             "پسر",
             "سانسکریت",
             ""
-        ]
+        ],
+        "english_name": "kerishna"
     },
     {
         "name": "کریم محمد",
@@ -2553,7 +3623,8 @@
             "پسر",
             "عربی",
             "مذهبی و قرآنی"
-        ]
+        ],
+        "english_name": "karim-mohammad"
     },
     {
         "name": "کلارا",
@@ -2565,7 +3636,8 @@
             "دختر",
             "کردی، فرانسوی",
             ""
-        ]
+        ],
+        "english_name": "kelara"
     },
     {
         "name": "کلویی",
@@ -2577,7 +3649,8 @@
             "دختر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "chloe"
     },
     {
         "name": "کمانگیر",
@@ -2589,7 +3662,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "گیر (پسر"
     },
     {
         "name": "کندر",
@@ -2601,7 +3675,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": " (پسر"
     },
     {
         "name": "کهزاد",
@@ -2613,7 +3688,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "kohzad"
     },
     {
         "name": "کهیار",
@@ -2625,7 +3701,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "kahyar"
     },
     {
         "name": "کواژین",
@@ -2637,7 +3714,8 @@
             "پسر",
             "کردی",
             ""
-        ]
+        ],
+        "english_name": "koazhin"
     },
     {
         "name": "کوچیار",
@@ -2649,7 +3727,8 @@
             "دختر",
             "کردی",
             ""
-        ]
+        ],
+        "english_name": "kochyar"
     },
     {
         "name": "کورداک",
@@ -2661,7 +3740,8 @@
             "پسر",
             "کردی",
             ""
-        ]
+        ],
+        "english_name": "kordak"
     },
     {
         "name": "کورنگ",
@@ -2673,7 +3753,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "korang"
     },
     {
         "name": "کوروس",
@@ -2685,7 +3766,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "kuros"
     },
     {
         "name": "کوژیر",
@@ -2697,7 +3779,8 @@
             "پسر",
             "کردی",
             ""
-        ]
+        ],
+        "english_name": "kozhir"
     },
     {
         "name": "کوژین",
@@ -2709,7 +3792,8 @@
             "پسر",
             "کردی",
             ""
-        ]
+        ],
+        "english_name": "kozhin"
     },
     {
         "name": "کوش",
@@ -2721,7 +3805,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "(پسر"
     },
     {
         "name": "کوشادخت",
@@ -2733,7 +3818,8 @@
             "دختر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "kusha-dokht"
     },
     {
         "name": "کوشانه",
@@ -2745,7 +3831,8 @@
             "دختر",
             "کردی، فارسی",
             ""
-        ]
+        ],
+        "english_name": "koshaneh"
     },
     {
         "name": "کوه زاد",
@@ -2757,7 +3844,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "kuhzad"
     },
     {
         "name": "کوهسار",
@@ -2769,7 +3857,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "kohsar"
     },
     {
         "name": "کوکب دخت",
@@ -2781,7 +3870,8 @@
             "دختر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "kowkab-dokht"
     },
     {
         "name": "کویستان",
@@ -2793,7 +3883,8 @@
             "دختر",
             "کردی",
             ""
-        ]
+        ],
+        "english_name": "kouyestan"
     },
     {
         "name": "کی آذر",
@@ -2805,7 +3896,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "ذر (پسر"
     },
     {
         "name": "کی آفرید",
@@ -2817,7 +3909,8 @@
             "دختر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "فرید (دختر"
     },
     {
         "name": "کی آفرین",
@@ -2829,7 +3922,8 @@
             "دختر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "فرین (دختر"
     },
     {
         "name": "کی بانو",
@@ -2841,7 +3935,8 @@
             "دختر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "انو (دختر"
     },
     {
         "name": "کی پیشین",
@@ -2853,7 +3948,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "یشین (پسر"
     },
     {
         "name": "کی دخت",
@@ -2865,7 +3961,8 @@
             "دختر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "kei-dokht"
     },
     {
         "name": "کی راد",
@@ -2877,7 +3974,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "اد (پسر"
     },
     {
         "name": "کی زاد",
@@ -2889,7 +3987,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "اد (پسر"
     },
     {
         "name": "کی گشتاسپ",
@@ -2901,7 +4000,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "شتاسپ (پسر"
     },
     {
         "name": "کی منوش",
@@ -2913,7 +4013,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "نوش (پسر"
     },
     {
         "name": "کیا داوود",
@@ -2925,7 +4026,8 @@
             "پسر",
             "فارسی، عبری",
             "مذهبی و قرآنی"
-        ]
+        ],
+        "english_name": "kiya-davud"
     },
     {
         "name": "کیا سام",
@@ -2937,7 +4039,8 @@
             "پسر",
             "فارسی",
             "تاریخی و کهن"
-        ]
+        ],
+        "english_name": "kiya-sam"
     },
     {
         "name": "کیابد",
@@ -2949,7 +4052,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "kiyabod"
     },
     {
         "name": "کیاتن",
@@ -2961,7 +4065,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "kiatan"
     },
     {
         "name": "کیادخت",
@@ -2973,7 +4078,8 @@
             "دختر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "kiya-dokht"
     },
     {
         "name": "کیارام",
@@ -2985,7 +4091,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "kiya ram"
     },
     {
         "name": "کیارزم",
@@ -2997,7 +4104,8 @@
             "پسر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "kiyarazm"
     },
     {
         "name": "کیارس",
@@ -3009,7 +4117,8 @@
             "پسر",
             "فارسی",
             "تاریخی و کهن"
-        ]
+        ],
+        "english_name": "kiyaras"
     },
     {
         "name": "کیازر",
@@ -3021,6 +4130,7 @@
             "دختر",
             "فارسی",
             ""
-        ]
+        ],
+        "english_name": "kiya zar"
     }
 ]
